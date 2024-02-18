@@ -1,0 +1,9 @@
+{
+    "java.dependency.syncWithFolderExplorer": false,
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.html": "html",
+        "new": "cpp",
+        "iostream": "cpp"
+    }
+}
